@@ -1,0 +1,48 @@
+body {
+    font-family: "メイリオ", sans-serif;
+}
+
+h1 {
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 500px;
+    background-color: #dcdcdc;
+    border-left: 5px solid red;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.confirm {
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    border: 2px solid #dcdcdc;
+    border-radius: 10px;
+    width: 500px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 60px;
+}
+
+form { 
+    float: left;
+    margin-right: 20px;
+}
+
+.button1 {
+    border: 1px solid darkgray;
+    border-radius: 3px;
+    border-bottom: 2px solid gray;
+    color: white;
+    background-color: darkgray;
+    padding: 3px 10px;
+}
+
+.button2 {
+    border: 1px solid darkgray;
+    border-radius: 3px;
+    color: white;
+    background-color: orange;
+    padding: 3px 10px;
+}
